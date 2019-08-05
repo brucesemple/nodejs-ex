@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.Connection=https\://admin@prhel006.rtp.raleigh.ibm.com\:8443
+org.jboss.tools.openshift.DeployProject=nodejs-ex
+org.jboss.tools.openshift.PodPath=
+org.jboss.tools.openshift.Service=proj01@nodejs-mongodb-example
+org.jboss.tools.openshift.SourcePath=${workspace_loc\:/nodejs-ex}
